@@ -1,4 +1,4 @@
-# Task-app-api-using-node.js
+# Todo-app-and-user-managment-using-node.js
 
 Run the project --
 1. npm install
